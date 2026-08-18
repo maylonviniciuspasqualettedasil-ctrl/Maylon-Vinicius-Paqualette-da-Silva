@@ -1,3 +1,5 @@
+# 🚀 Meus Estudos de Programação
+
 Olá! Eu sou Maylon e estou estudando programação.
 
 Atualmente estou aprendendo:
@@ -6,3 +8,7 @@ Atualmente estou aprendendo:
 🌐 HTML
 🎨 CSS
 ⚡ JavaScript
+
+## 🚀 Projetos
+
+🔹 Sistema de cadastro em Python
