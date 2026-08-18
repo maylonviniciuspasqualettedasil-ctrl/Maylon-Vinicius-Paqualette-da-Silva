@@ -2,11 +2,11 @@
 
 Olá! Eu sou Maylon e estou estudando programação.
 
-Atualmente estou aprendendo:
+## 💻 Linguagens e Tecnologias
 
-🐍 Python
-🌐 HTML
-🎨 CSS
+🐍 Python  
+🌐 HTML  
+🎨 CSS  
 ⚡ JavaScript
 
 ## 🚀 Projetos
